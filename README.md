@@ -11,7 +11,7 @@ I'm not just another coder; I'm a digital alchemist turning caffeine into code!
 ## 🛠️ Tech Stack
 
 ```javascript
-const mySkills = ['JavaScript', 'React', 'Node.js', 'HTML', 'CSS'];  // Add or modify as needed
+const mySkills = ['JavaScript', 'React', 'Node.js', 'HTML', 'CSS'];
 console.log(`I speak ${mySkills.length} languages, and only ${mySkills.length - 1} of them are for humans!`);
 ```
 
